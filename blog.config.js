@@ -1,8 +1,8 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
+  title: '什么志',
+  author: 'willrdz',
+  email: 'willrdz@126.com',
+  link: 'https://amethyst-character-1d0.notion.site/3bd5b9ac99e84f6b84611a2682ba13e3?v=33a30b9911844c8eb4b0646ee9f6f8cf',
   description: 'This gonna be an awesome website.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
