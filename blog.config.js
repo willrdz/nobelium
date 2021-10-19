@@ -5,7 +5,7 @@ const BLOG = {
   link: 'https://amethyst-character-1d0.notion.site/3bd5b9ac99e84f6b84611a2682ba13e3?v=33a30b9911844c8eb4b0646ee9f6f8cf',
   description: '哲理的山鹿石坝晚.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
-  appearance: 'dark', // ['light', 'dark', 'auto'],
+  appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
