@@ -3,7 +3,7 @@ const BLOG = {
   author: 'willrdz',
   email: 'willrdz@126.com',
   link: 'https://amethyst-character-1d0.notion.site/3bd5b9ac99e84f6b84611a2682ba13e3?v=33a30b9911844c8eb4b0646ee9f6f8cf',
-  description: 'This gonna be an awesome website.',
+  description: '哲理的山鹿石坝晚.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -17,7 +17,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: 'https://twitter.com/_willrdz_',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
